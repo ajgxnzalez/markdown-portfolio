@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Things to _Emphasize_
+_Some programing languages I've used are: **python**, **JS**, **Java**, and **C**._
